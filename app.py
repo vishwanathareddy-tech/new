@@ -307,14 +307,14 @@
 # 
 
 # %%
-!pip install -q langgraph==0.2.55 \
-                langchain==0.3.14 \
-                langchain-core==0.3.29 \
-                langchain-openai==0.2.14 \
-                langchain-community==0.3.14 \
-                grandalf==0.8 \
-                pandas==2.2.2 \
-                numpy==2.0.2
+#!pip install -q langgraph==0.2.55 \
+#                langchain==0.3.14 \
+#                langchain-core==0.3.29 \
+#                langchain-openai==0.2.14 \
+#                langchain-community==0.3.14 \
+#                grandalf==0.8 \
+#                pandas==2.2.2 \
+#                numpy==2.0.2
 
 # %% [markdown]
 # This code imports the required libraries so we can use their functions in our project.
